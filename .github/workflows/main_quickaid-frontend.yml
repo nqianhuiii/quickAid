@@ -52,4 +52,4 @@ jobs:
           app-name: 'quickAid-frontend'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CC02FA8CDDB401A80DA80B30AD532AC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17C68DCCBBA14EDF8BC5D39A94A7AF29 }}
